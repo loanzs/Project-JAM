@@ -85,7 +85,7 @@ public class ui extends JFrame {
         loginPanel.add(emailText);
         loginPanel.add(loginButton);
         loginPanel.add(password);
-        loginPanel.add(passwordText);
+        // loginPanel.add(passwordText);
          
         
         //add logo icon
